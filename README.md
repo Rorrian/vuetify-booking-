@@ -61,4 +61,6 @@ Alexander Stepanov
 
 #### Start
 1. `npm i`
-1. `npm run serve`
+2. `npm run serve`
+
+//test
