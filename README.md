@@ -54,7 +54,7 @@ Alexander Stepanov
 #### Create app
 1. Create app `vue create <app>`
 1. `cd <app>`
-1. Add Vuetify `vue add vuetify`   
+1. Add Vuetify `vue add vuetif`   
 
 #### Libraries
 1. faker

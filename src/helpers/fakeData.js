@@ -1,8 +1,8 @@
 import faker from "faker";
 
-export const fakeList = (dates) => {
+//count - кол-во полетов
+export const fakeList = (dates, count = 1000) => {
   const res = [];
-  const count = 1000;
   for (let i = 0; i < count; i += 1) {
     res.push({
       id: i,
